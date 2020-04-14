@@ -1,0 +1,42 @@
+{
+  "name": "nbafanboi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run lint",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "lint": "eslint --quiet .",
+    "fix": "eslint --fix ."
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hkennedyvi/project2.github.io"
+  },
+  "parser": "babel-eslint",
+  "keywords": [],
+  "author": "abdullah @tcanbolat, Anil @Anil1992-rgb, Howard @hkennedyvi, Max @maxskewes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "babel-eslint": "^10.0.3",
+    "bcryptjs": "2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.1.0",
+    "express-session": "^1.16.1",
+    "moment": "^2.24.0",
+    "mysql2": "^1.6.4",
+    "nodemon": "^2.0.2",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^4.41.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1"
+  }
+}

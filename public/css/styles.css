@@ -1,0 +1,164 @@
+body {
+    background-image: url("../assets/img/court.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#navBtns {
+    position: absolute !important;
+    right: 320px !important;
+    background-color: rgb(35, 79, 167) !important;
+}
+
+.btn-light {
+    background-color: transparent !important;
+    border: none;
+    color: white;
+}
+
+.navbar {
+    border: 3px solid white;
+    /* margin-bottom: 40px !important; */
+}
+
+.navbar-brand {
+    float: left !important;
+    position: absolute !important;
+    left: 60px;
+    color: white !important;
+    font-size: 45px !important;
+    font-family: fantasy;
+}
+
+#starredBtn {
+    margin-left: 10px;
+}
+
+#navImg {
+    height: 55px;
+}
+
+#leaderh1 {
+    text-align: center;
+    font-family: fantasy;
+    color: black;
+    background-image: url(../assets/img/h1Other.png);
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    border: 3px solid black;
+}
+
+#cardTitle {
+    margin-top: 10px;
+    padding-top: 6px;
+    text-align: center;
+    font-family: fantasy;
+    color: black;
+    background-image: url(../assets/img/currenth1.jpg);
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    border: 3px solid black;
+    height: 80px;
+}
+
+h3 {
+    font-family: fantasy;
+    margin-bottom: 20px;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.list-group-item {
+    /* font-weight: bold; */
+    font-family: fantasy;
+    background-color: orange;
+    color: white;
+    padding: 10 !important;
+    font-size: 25px;
+}
+
+.teamText {
+    font-size: 0px;
+    color: orange;
+}
+
+.card {
+    border: 3px solid rgb(2, 2, 196);
+    /* margin-right: 20px; */
+    /* height: 480px !important; */
+    margin: 15px !important;
+    height: 400px !important;
+    width: 345px !important;
+    text-align: center !important;
+}
+
+#bounceimg {
+    height: 200px;
+    margin-top: 25px;
+}
+
+#hoop {
+    height: 120px;
+    margin-top: 40px !important;
+    /* float: right; */
+}
+
+#images {
+    position: absolute;
+    right: 0 !important;
+}
+
+.teamImgs {
+    height: 60px !important;
+}
+
+.teamImgs2 {
+    height: 200px !important;
+    width: 200px !important;
+}
+
+#star {
+    height: 20px;
+    margin-bottom: 5px;
+}
+
+.teamList {
+    border: 3px solid rgb(0, 0, 212);
+    padding: 0 !important;
+    text-align: center;
+}
+
+hr {
+    margin: 0px !important;
+}
+
+.monthCard {
+    color: white;
+    text-shadow: black !important;
+    font-size: 30px;
+    /* font-weight: bold; */
+    font-family: fantasy;
+    border-bottom: 5px solid black;
+}
+
+#schedule {
+    background-image: url(../assets/img/scheduleListBackground.jpg);
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+}
+
+.monthCard img {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.teamHeader {
+    margin-top: 60px;
+}
