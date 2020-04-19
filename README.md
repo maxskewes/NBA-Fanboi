@@ -3,6 +3,8 @@
 
 A complete NBA fan application that gives users real-time scores of games-in- progress, as well as team and player stats. The app also allows users to star their favourite players for quick access to facts. Boasting an attractive interface, this app makes for an enjoyable way to keep up-to-date on all things NBA.
 
+![Alt text](./readmeNBAfanboi.png?raw=true "AppImage")
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
